@@ -1,0 +1,31 @@
+:root {
+  --vp-c-brand: #3a5ccc;
+  --vp-c-brand-light: #5e7eff;
+  --vp-c-brand-dark: #2a4299;
+  
+  /* 亮色主题下的卡片背景 */
+  --card-bg-light: #ffffff;
+  --card-shadow-light: rgba(0, 0, 0, 0.1);
+}
+
+.dark {
+  --vp-c-brand: #5e7eff;
+  --vp-c-brand-light: #7a93ff;
+  --vp-c-brand-dark: #3a5ccc;
+  
+  /* 暗色主题下的卡片背景 */
+  --card-bg-dark: #1a1a1a;
+  --card-shadow-dark: rgba(0, 0, 0, 0.3);
+}
+
+/* 动画效果 */
+.fade-in {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.6s ease, transform 0.6s ease;
+}
+
+.fade-in.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
