@@ -38,13 +38,13 @@ hero:
     width: 192
     height: 192
   actions:
-    - theme: brand
+    - theme: alt
       text: 下载
       link: /download
     - theme: alt
       text: 教程
       link: /guide
-    - theme: alt
+    - theme: brand
       text: 🎉机场推荐
       link: https://1yuan.uk/subscribe.html
 
@@ -63,7 +63,7 @@ features:
     details: 通过 WebDav 支持配置一键备份与恢复，确保用户数据安全。
 ---
 
-友情链接：<a href="https://jichangtuijian.uk" target="_blank">机场推荐</a> &nbsp; &nbsp;<a href="https://www.yiyuanvpn.org" target="_blank">一元机场</a> &nbsp; &nbsp;   <a href="https://优信云.site" target="_blank">优信云机场</a> &nbsp; &nbsp;   <a href="https://www.clashcn.org" target="_blank">Clash for windows</a> &nbsp; &nbsp; <a href="https://3mao.bid" target="_blank">三毛机场</a> &nbsp; &nbsp;<a href="https://mojie.uk" target="_blank">魔戒机场</a>&nbsp; &nbsp;<a href="https://mihomoparty.bid" target="_blank">Mihomo Party</a>&nbsp; &nbsp;<a href="https://karing.uk" target="_blank">Karing客户端</a>&nbsp; &nbsp;<a href="https://nsloon.uk" target="_blank">Loon客户端</a>&nbsp; &nbsp;<a href="https://stashapp.uk" target="_blank">Stash客户端</a>
+友情链接：<a href="https://jichangtuijian.uk" target="_blank">机场推荐</a> &nbsp; &nbsp;<a href="https://一元.site" target="_blank">一元机场</a> &nbsp; &nbsp;   <a href="https://优信云.site" target="_blank">优信云机场</a> &nbsp; &nbsp;   <a href="https://www.clashcn.org" target="_blank">Clash for windows</a> &nbsp; &nbsp; <a href="https://3mao.bid" target="_blank">三毛机场</a> &nbsp; &nbsp;<a href="https://mojie.uk" target="_blank">魔戒机场</a>&nbsp; &nbsp;<a href="https://mihomoparty.bid" target="_blank">Mihomo Party</a>&nbsp; &nbsp;<a href="https://karing.uk" target="_blank">Karing客户端</a>&nbsp; &nbsp;<a href="https://nsloon.uk" target="_blank">Loon客户端</a>&nbsp; &nbsp;<a href="https://stashapp.uk" target="_blank">Stash客户端</a>
 
 <style>
 :root {
