@@ -5,8 +5,14 @@ export default defineConfig({
   title: "Mihomo Party",
   description: "基于Mihomo(Clash Meta)核心的新一代网络代理工具，界面简介清晰，功能强大。Mihomo Party 支持 Windows、macOS 以及 Linux 等所有主要桌面操作系统",
   head: [
-    ['link', { rel: 'icon', href: '/assets/favicon.ico' }]
+    ['link', { rel: 'icon', href: '/assets/favicon.ico' }],
+        ['script', { 
+      async: true, 
+      src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2394457707130437',
+      crossorigin: 'anonymous'
+    }]
   ],
+  
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: {
