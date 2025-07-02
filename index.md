@@ -40,13 +40,13 @@ hero:
   actions:
     - theme: alt
       text: 下载
-      link: /download
+      link: /download.md
     - theme: alt
       text: 教程
-      link: /guide
+      link: /guide.md
     - theme: brand
       text: 🎉机场推荐
-      link: https://1yuan.uk/subscribe.html
+      link: https://jichangtuijian.uk
 
 features:
   - title: 强大内核

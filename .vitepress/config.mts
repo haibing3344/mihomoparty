@@ -21,18 +21,18 @@ export default defineConfig({
     },
     nav: [
       { text: '首页', link: '/' },
-      { text: '下载', link: '/download' },
-      { text: '使用教程', link: '/guide' },
-      { text: '机场/节点推荐', link: 'https://1yuan.uk/subscribe.html' },
+      { text: '下载', link: '/download.md' },
+      { text: '使用教程', link: '/guide.md' },
+      { text: '机场/节点推荐', link: 'https://jichangtuijian.uk' },
     ],
 
     sidebar: [
       {
         text: '快速开始',
         items: [
-          { text: '使用教程', link: '/guide' },
-          { text: '常见问题', link: '/faq' },
-          { text: '机场/节点推荐', link: 'https://1yuan.uk/subscribe.html' },
+          { text: '使用教程', link: '/guide.md' },
+          { text: '常见问题', link: '/faq.md' },
+          { text: '机场/节点推荐', link: 'https://jichangtuijian.uk' },
         ],
       },
       {
@@ -40,14 +40,14 @@ export default defineConfig({
           { text: '常见问题', 
             collapsed: false,
             items: [
-              { text: '首次运行注意', link: '/faq#首次运行-mihomo-party-的注意事项' },
-              { text: '如何获取订阅地址', link: '/faq#获取订阅地址' },
-              { text: '下载或更新订阅出错怎么办', link: '/faq#下载或更新订阅出错怎么办' },
-              { text: '如何设置代理模式', link: '/faq#设置代理模式' },
-              { text: '我已选择可用节点，但 Chrome 无法访问境外网站怎么办？', link: '/faq#我已选择可用节点-但-chrome-无法访问境外网站怎么办' },
-              { text: '360 / QQ / 搜狗等国产浏览器无法访问境外网站怎么办？', link: '/faq#_360-qq-搜狗等国产浏览器无法访问境外网站怎么办' },
-              { text: 'LINE 无法连接服务器怎么办？', link: '/faq#line-无法连接服务器怎么办' },
-              { text: 'Telegram 无法连接服务器怎么办？', link: '/faq#telegram-无法连接服务器怎么办' }, 
+              { text: '首次运行注意', link: '/faq.md#首次运行-mihomo-party-的注意事项' },
+              { text: '如何获取订阅地址', link: '/faq.md#获取订阅地址' },
+              { text: '下载或更新订阅出错怎么办', link: '/faq.md#下载或更新订阅出错怎么办' },
+              { text: '如何设置代理模式', link: '/faq.md#设置代理模式' },
+              { text: '我已选择可用节点，但 Chrome 无法访问境外网站怎么办？', link: '/faq.md#我已选择可用节点-但-chrome-无法访问境外网站怎么办' },
+              { text: '360 / QQ / 搜狗等国产浏览器无法访问境外网站怎么办？', link: '/faq.md#_360-qq-搜狗等国产浏览器无法访问境外网站怎么办' },
+              { text: 'LINE 无法连接服务器怎么办？', link: '/faq.md#line-无法连接服务器怎么办' },
+              { text: 'Telegram 无法连接服务器怎么办？', link: '/faq.md#telegram-无法连接服务器怎么办' }, 
             ]
             },
         ],
