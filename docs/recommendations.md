@@ -115,7 +115,7 @@ import { ref } from 'vue'
 <div class="pricing-card">
   <div class="pricing-title">宝可梦星云</div>
   <div class="pricing-price">¥5.90 <span class="pricing-unit">每月</span></div>
-  <a href="https://love.521pokemon.com/register?code=56ERkkxp" target="_blank" class="buy-button">
+  <a href="https://a.suola.link/pokemon" target="_blank" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
