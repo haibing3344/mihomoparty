@@ -42,7 +42,7 @@ import { ref } from 'vue'
 <div class="pricing-card">
   <div class="pricing-title">Cyberguard</div>
   <div class="pricing-price">18.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://www.cyberguard.best/#/register?code=XsreC0T5" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/cyberguard" target="_blank" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -91,7 +91,7 @@ import { ref } from 'vue'
 <div class="pricing-card">
   <div class="pricing-title">NanoCloud</div>
   <div class="pricing-price">¥10.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://edu.uodoo.bid/auth/register?code=JMiOQDHf" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/nanocloud" target="_blank" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -115,7 +115,7 @@ import { ref } from 'vue'
 <div class="pricing-card">
   <div class="pricing-title">宝可梦星云</div>
   <div class="pricing-price">¥5.90 <span class="pricing-unit">每月</span></div>
-  <a href="https://a.suola.link/pokemon" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/pokemon" target="_blank" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -381,7 +381,7 @@ import { ref } from 'vue'
  <div class="pricing-card">
   <div class="pricing-title">魔戒</div>
   <div class="pricing-price">¥14.90 <span class="pricing-unit" style="color: red;">不限时</span></div>
-  <a href="https://mojie.app/#/register?code=sSdtPtLo" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/mojie" target="_blank" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -429,13 +429,13 @@ import { ref } from 'vue'
 
 ::: tip 🎉 节点推荐
 
-- 🚀 [优信云：IEPL/IPLC 高速专线，￥15.00/月](https://www.优信云.com/#/register?code=JRtE5uIV)<br>
-- 🚀 [尔湾云：最大峰值1000Mbps，全流媒体及ChatGPT解锁！最低12元/月](https://erwan6.net/auth/register?code=BoObCd)<br>
+- 🚀 [优信云：IEPL/IPLC 高速专线，￥15.00/月](https://c.jichangs.com/youxinyun)<br>
+- 🚀 [尔湾云：最大峰值1000Mbps，全流媒体及ChatGPT解锁！最低12元/月](https://c.jichangs.com/erwan)<br>
 - 🚀 [TNTCloud：新开机场，季付30，每月低至￥10.00/月](https://www.tntyun.cc/#/register?code=GtjJVgml)<br>
 - [小旋风：IPLC专线高速稳定！8元/月起](https://cinb01.xxfaff.cc/#/register?inviteCode=80C209ADC772)<br>
 - [大哥云：年付低至7元/月，4年稳定老牌机场](https://ca01.dgy01.cc/#/register?code=JSSN0WQ9)<br>
-- [肥猫云：全专线中转隧道，高速大宽带不限设备数，低至6元/月（年付）](https://fchb1188.fcvipaff.cc/register?aff=X1vZd2wf)<br>
-- [疾风云：包年 6.9折 优惠码: jf2025](https://homes.tr25.cn?code=ReCm)
+- [肥猫云：全专线中转隧道，高速大宽带不限设备数，低至6元/月（年付）](https://c.jichangs.com/feimao)<br>
+- [疾风云：包年 6.9折 优惠码: jf2025](https://c.jichangs.com/jifeng)
 :::
 
 ::: warning  💬 交流群
