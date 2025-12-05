@@ -1,5 +1,4 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 title: Mihomo Party 官网- 开源免费的跨平台Clash图形客户端 | 网络代理工具首选
@@ -47,8 +46,13 @@ hero:
     - theme: brand
       text: 🎉机场推荐
       link: https://jichangtuijian.uk
+    - theme: brand
+      text: Clash Party（新）
+      link: https://clashparty.men
 
 features:
+  - title: 提示
+    details: Mihomo Party 已更名为<a href="https://clashparty.men" target="_blank">【Clash Party】</a>，后续所有更新和维护都将在<a href="https://clashparty.men" target="_blank">【Clash Party】</a>项目进行。
   - title: 强大内核
     details: 内置 Mihomo (Clash Meta) 内核，支持稳定版和预览版切换，提供全面的代理功能。
   - title: 现代界面
@@ -63,7 +67,7 @@ features:
     details: 通过 WebDav 支持配置一键备份与恢复，确保用户数据安全。
 ---
 
-友情链接：<a href="https://jichangtuijian.uk" target="_blank">机场推荐</a> &nbsp; &nbsp;<a href="https://1rmb.org" target="_blank">一元机场</a> &nbsp; &nbsp;   <a href="https://youxinyun.bid" target="_blank">优信云机场</a> &nbsp; &nbsp;   <a href="https://www.clashcn.org" target="_blank">Clash for windows</a> &nbsp; &nbsp; <a href="https://3mao.bid" target="_blank">三毛机场</a> &nbsp; &nbsp;<a href="https://mojie.uk" target="_blank">魔戒机场</a>&nbsp; &nbsp;<a href="https://mihomoparty.bid" target="_blank">Mihomo Party</a>&nbsp; &nbsp;<a href="https://karings.org" target="_blank">Karing客户端</a>&nbsp; &nbsp;<a href="https://nsloon.uk" target="_blank">Loon客户端</a>&nbsp; &nbsp;<a href="https://stashapp.uk" target="_blank">Stash客户端</a>&nbsp; &nbsp;<a href="https://2yuan.uk" target="_blank">2元机场</a>&nbsp; &nbsp;<a href="https://taoqitu.uk" target="_blank">淘气兔机场</a>&nbsp; &nbsp;<a href="https://baokemeng.bid" target="_blank">宝可梦机场</a>&nbsp; &nbsp;<a href="https://yijc.org" target="_blank">一元机场</a>&nbsp; &nbsp;<a href="https://clashmeta.bid" target="_blank">ClashMetaForAndroid</a>
+友情链接：<a href="https://jichangtuijian.uk" target="_blank">机场推荐</a> &nbsp; &nbsp;<a href="https://1rmb.org" target="_blank">一元机场</a> &nbsp; &nbsp;   <a href="https://youxinyun.bid" target="_blank">优信云机场</a> &nbsp; &nbsp;   <a href="https://www.clashcn.org" target="_blank">Clash for windows</a> &nbsp; &nbsp; <a href="https://3mao.bid" target="_blank">三毛机场</a> &nbsp; &nbsp;<a href="https://mojie.uk" target="_blank">魔戒机场</a>&nbsp; &nbsp;<a href="https://clashparty.men" target="_blank">Clash Party</a>&nbsp; &nbsp;<a href="https://karings.org" target="_blank">Karing客户端</a>&nbsp; &nbsp;<a href="https://nsloon.uk" target="_blank">Loon客户端</a>&nbsp; &nbsp;<a href="https://stashapp.uk" target="_blank">Stash客户端</a>&nbsp; &nbsp;<a href="https://2yuan.uk" target="_blank">2元机场</a>&nbsp; &nbsp;<a href="https://taoqitu.uk" target="_blank">淘气兔机场</a>&nbsp; &nbsp;<a href="https://baokemeng.bid" target="_blank">宝可梦机场</a>&nbsp; &nbsp;<a href="https://yijc.org" target="_blank">一元机场</a>&nbsp; &nbsp;<a href="https://clashmeta.bid" target="_blank">ClashMetaForAndroid</a>
 
 <style>
 :root {

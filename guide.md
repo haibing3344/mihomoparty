@@ -3,6 +3,10 @@ title: Mihomo Party 使用教程，配置指南
 description: Mihomo Party 是一款基于Mihomo的客户端，支持Windows、macOS、Linux等系统。下面介绍 Mihomo Party 的安装和使用方法，帮助你快速上手使用 Mihomo Party。
 ---
 
+::: tip 提示
+Mihomo Party 已更名为[Clash Party](https://clashparty.men)，后续所有更新和维护都将在Clash Party项目进行。
+:::
+
 # Mihomo Party 使用教程，配置指南
 
 下面介绍 Mihomo Party 的安装和使用方法，帮助你快速上手使用 Mihomo Party。

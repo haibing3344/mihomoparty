@@ -3,6 +3,10 @@ title: Mihomo Party 常见问题解答 | 使用教程、故障排查与节点推
 description: 全面的 Mihomo Party 使用指南，包括首次运行注意事项、订阅地址获取方法、代理模式设置以及常见问题解决方案，帮助您顺利使用科学上网工具。
 ---
 
+::: tip 提示
+Mihomo Party 已更名为[Clash Party](https://clashparty.men)，后续所有更新和维护都将在Clash Party项目进行。
+:::
+
 # Mihomo Party常见问题
 
 ## **首次运行 Mihomo Party 的注意事项**

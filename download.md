@@ -2,6 +2,11 @@
 title: Mihomo Party 客户端下载
 description:  Mihomo Party 目前最新版本为 1.7.2。
 ---
+
+::: tip 提示
+Mihomo Party 已更名为[Clash Party](https://clashparty.men)，后续所有更新和维护都将在Clash Party项目进行。
+:::
+
 # Mihomo Party 客户端下载
 
 Mihomo Party 目前最新版本为 1.7.2。
